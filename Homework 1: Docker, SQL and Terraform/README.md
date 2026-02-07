@@ -24,14 +24,17 @@ Taped Script in the terminal :
 ==> The right answer is : 25.3
 
 
+
 * Question 2. Understanding Docker networking and docker-compose
 
 Taped scriot in terminal :
+
     @Fedi-AB ➜ /workspaces/ZoomCamp_Homework/Homework 1: Docker, SQL and Terraform (main) $ docker compose up
 
 ==> The right answers are : 
 -postges:5432
 -db:5432
+
 
 
 * Question 3. Counting short trips
@@ -61,6 +64,7 @@ The SQL Query on Postgres:
 ==> The right answer is 8007
 
 
+
 * Question 4. Longest trip for each day
 
 The SQL Query on Postgres:
@@ -82,6 +86,7 @@ The SQL Query on Postgres:
 	        )
 
 ==> The right answer is 2025-11-14
+
 
 
 * Question 5. Biggest pickup zone
@@ -114,6 +119,7 @@ The SQL Query on Postgres:
 ==> The right answer is East Harlem North
 
 
+
 * Question 6. Largest tip
 
 The SQL Query on Postgres:
@@ -141,6 +147,7 @@ The SQL Query on Postgres:
     LIMIT 1;
 
 ==> The right answer is Upper East Side North
+
 
 
 * Question 7. Terraform Workflow
