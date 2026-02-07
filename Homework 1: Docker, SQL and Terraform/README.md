@@ -1,5 +1,5 @@
 # ZoomCamp_Homework
-=======
+=================================
 ## Module 1 Homework: Docker & SQL
 
 * Question 1. Understanding Docker images
@@ -22,7 +22,7 @@ Taped Script in the terminal :
     pip 25.3 from /usr/local/lib/python3.13/site-packages/pip (python 3.13)
 	
 ==> The right answer is : 25.3
-
+==========
 
 
 * Question 2. Understanding Docker networking and docker-compose
@@ -62,7 +62,7 @@ The SQL Query on Postgres:
 	        CAST(lpep_pickup_datetime AS DATE) BETWEEN '2025-11-01' AND '2025-11-30'
 
 ==> The right answer is 8007
-
+==========
 
 
 * Question 4. Longest trip for each day
@@ -86,7 +86,7 @@ The SQL Query on Postgres:
 	        )
 
 ==> The right answer is 2025-11-14
-
+==========
 
 
 * Question 5. Biggest pickup zone
@@ -117,7 +117,7 @@ The SQL Query on Postgres:
 
 
 ==> The right answer is East Harlem North
-
+==========
 
 
 * Question 6. Largest tip
@@ -147,7 +147,7 @@ The SQL Query on Postgres:
     LIMIT 1;
 
 ==> The right answer is Upper East Side North
-
+==========
 
 
 * Question 7. Terraform Workflow
