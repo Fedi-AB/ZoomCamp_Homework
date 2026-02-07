@@ -5,6 +5,7 @@
 * Question 1. Understanding Docker images
   
 Taped Script in the terminal : 
+
     @Fedi-AB ➜ /workspaces/ZoomCamp_Homework (main) $ docker run -it --entrypoint bash python:3.13
     Unable to find image 'python:3.13' locally
     3.13: Pulling from library/python
