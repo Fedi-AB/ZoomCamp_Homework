@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ZoomCamp_Homework
 =======
 ## Module 1 Homework: Docker & SQL
@@ -27,7 +26,7 @@ The right answer is : 25.3
 Taped scriot in terminal :
     @Fedi-AB ➜ /workspaces/ZoomCamp_Homework/Homework 1: Docker, SQL and Terraform (main) $ docker compose up
 
-The right answers are : 
+==> The right answers are : 
 -postges:5432
 -db:5432
 
@@ -144,8 +143,3 @@ The SQL Query on Postgres:
 * Question 7. Terraform Workflow
 
 ==> The right answer is terraform init, terraform apply -auto-approve, terraform destroy
-
-
-
-
->>>>>>> bb6a474 (Ajout du projet ZoomCamp: ingestion parquet, scripts SQL et Docker)
