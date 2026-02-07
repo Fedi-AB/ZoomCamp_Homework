@@ -3,6 +3,7 @@
 ## Module 1 Homework: Docker & SQL
 
 * Question 1. Understanding Docker images
+  
 Taped Script in the terminal : 
     @Fedi-AB ➜ /workspaces/ZoomCamp_Homework (main) $ docker run -it --entrypoint bash python:3.13
     Unable to find image 'python:3.13' locally
@@ -18,7 +19,8 @@ Taped Script in the terminal :
     Status: Downloaded newer image for python:3.13
     root@ec2d6b4a98cf:/# pip --version
     pip 25.3 from /usr/local/lib/python3.13/site-packages/pip (python 3.13)
-The right answer is : 25.3
+	
+==> The right answer is : 25.3
 
 
 * Question 2. Understanding Docker networking and docker-compose
