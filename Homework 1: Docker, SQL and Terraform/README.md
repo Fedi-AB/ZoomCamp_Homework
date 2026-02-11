@@ -1,11 +1,7 @@
-# ZoomCamp_Homework
-=================================
 ## Module 1 Homework: Docker & SQL
 
 * Question 1. Understanding Docker images
-  
 Taped Script in the terminal : 
-
     @Fedi-AB ➜ /workspaces/ZoomCamp_Homework (main) $ docker run -it --entrypoint bash python:3.13
     Unable to find image 'python:3.13' locally
     3.13: Pulling from library/python
@@ -20,24 +16,17 @@ Taped Script in the terminal :
     Status: Downloaded newer image for python:3.13
     root@ec2d6b4a98cf:/# pip --version
     pip 25.3 from /usr/local/lib/python3.13/site-packages/pip (python 3.13)
-	
-==> The right answer is : 25.3
-
-=================================
+The right answer is : 25.3
 
 
 * Question 2. Understanding Docker networking and docker-compose
 
 Taped scriot in terminal :
-
     @Fedi-AB ➜ /workspaces/ZoomCamp_Homework/Homework 1: Docker, SQL and Terraform (main) $ docker compose up
 
-==> The right answers are : 
+The right answers are : 
 -postges:5432
 -db:5432
-
-=================================
-
 
 
 * Question 3. Counting short trips
@@ -66,8 +55,6 @@ The SQL Query on Postgres:
 
 ==> The right answer is 8007
 
-=================================
-
 
 * Question 4. Longest trip for each day
 
@@ -90,8 +77,6 @@ The SQL Query on Postgres:
 	        )
 
 ==> The right answer is 2025-11-14
-
-=================================
 
 
 * Question 5. Biggest pickup zone
@@ -123,8 +108,6 @@ The SQL Query on Postgres:
 
 ==> The right answer is East Harlem North
 
-=================================
-
 
 * Question 6. Largest tip
 
@@ -154,9 +137,11 @@ The SQL Query on Postgres:
 
 ==> The right answer is Upper East Side North
 
-=================================
-
 
 * Question 7. Terraform Workflow
 
 ==> The right answer is terraform init, terraform apply -auto-approve, terraform destroy
+
+
+
+
